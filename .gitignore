@@ -67,3 +67,16 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Qt Creator
+*.pro.user*
+
+# Qt Designer
+*.ui.user
+
+# IDEs
+.idea/
+.vscode/
+.*.code-workspace
+.*~.nib
+
